@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @SneakyB00m (Alan Isaac)
-- 👀 I’m interested in ... Programming, Gaming, and Cybersecurity
+- 👀 I’m interested in ... Programming, Gaming, Cybersecurity, Software/Hardware
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Any company i dont have any bias
 - 📫 How to reach me ... contactalanisaac@gmail.com
-- 📋 Languages and miscellaneous ... 
+- 🔣 Language ... Spanish / English 
+- 🖥️ Language and Miscellaneous ... C, C++, C#, Java, MySQL, ASM, Html5, Css
+- 📜 Certificate MICAI 2021, English Cambridge
 
 <!---
 SneakyB00m/SneakyB00m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
