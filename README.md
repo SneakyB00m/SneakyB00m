@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Any company i dont have any bias
 - 📫 How to reach me ... contactalanisaac@gmail.com
-- 🔣 Language ... Spanish / English 
-- 🖥️ Language and Miscellaneous ... C, C++, C#, Java, MySQL, ASM, Html5, Css
+- 🔣 I Speak ... Spanish / English 
+- 🖥️ Languages and Miscellaneous ... C, C++, C#, Java, MySQL, ASM, Html5, Css
 - 📜 Certificate MICAI 2021, English Cambridge
 
 <!---
