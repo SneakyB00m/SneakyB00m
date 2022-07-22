@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Any company i dont have any bias
 - 📫 How to reach me ... contactalanisaac@gmail.com
+- 📋 Languages and miscellaneous ... 
 
 <!---
 SneakyB00m/SneakyB00m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
