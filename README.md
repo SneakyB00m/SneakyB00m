@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SneakyB00m
+- 👋 Hi, I’m @SneakyB00m (Alan Isaac)
 - 👀 I’m interested in ... Programming, Gaming, and Cybersecurity
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Any company i dont have any bias
