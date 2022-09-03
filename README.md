@@ -4,7 +4,7 @@
 - 📫 How to reach me ... contactalanisaac@gmail.com
 - 🔣 I Speak ... Spanish / English 
 - 🖥️ Languages and Miscellaneous ... C, C++, C#, Java, MySQL, ASM, Html5, Css
-- 📜 Certificate MICAI 2021, English Certification from Cambridge University 
+- 📜 Certificate MICAI [Mexican International Conference on Artificial Intelligence] 2021, English Certification from Cambridge University 
 
 <!---
 SneakyB00m/SneakyB00m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
